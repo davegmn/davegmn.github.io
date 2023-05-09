@@ -16,3 +16,9 @@ I'm David and welcome to my projects. This is a compilation of what I've done in
 * PCA, the main technique to determine some determinant conditions. 
 * Bayesian Network to predict the diagnostic. 
 
+#
+<img align="left" width="250" height="150" src=https://github.com/davegmn/Project-Hepatitis-with-non-supervising-learning/blob/253e44443f7e783f4ac8d9596963d5eddd7ebf79/project%203.png> [Project 3: Hepatitis with non supervising learning](https://github.com/davegmn/Project-Hepatitis-with-non-supervising-learning.git)
+* Hepatitis usual conditions
+* Algorithms used: KMEANS, DBSCAN, Bayesian Network, Cluster.
+* Models used to predict the diagnostic.
+
