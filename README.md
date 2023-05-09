@@ -22,6 +22,7 @@ I'm David and welcome to my projects. This is a compilation of what I've done in
 * Algorithms used: KMEANS, DBSCAN, Bayesian Network, Cluster.
 * Models used to predict the diagnostic.
 
-#You may want to read all my profile.
+#
+You may want to read all my profile.
 <img align="center" src=https://github.com/davegmn/davegmn.github.io/blob/ab3047fce9c5e9ce718e287cfe286173bf853241/20%20an%CC%83os.png>
 
