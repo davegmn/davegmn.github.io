@@ -8,7 +8,8 @@ I'm David and welcome to my projects. This is a compilation of what I've done in
 <img align="left" width="250" height="150" src="https://github.com/davegmn/Project-Estimation-of-a-financial-option/blob/d01fc1e6316e6486ce3d5662e453d01977616387/Vol1.png"> [Project 1: Estimation of a financial option](https://github.com/davegmn/Project-Estimation-of-a-financial-option.git)
 * Banorte Data.
 * Montecarlo Simulation for prediction of yields of the bank for data of 2019. 
-* Black-Scholes for the simulation of prices of financial options. 
+* Black-Scholes for the simulation of prices of financial options.
+* Digital Siganture App. 
 
 #
 <img align="left" width="250" height="150" src=https://github.com/davegmn/Project-Diabetis_PCA/blob/47312ca6899e676661396ebd8a21bf1461270efc/Correlaciones.png> [Project 2: Diabetes with PCA](https://github.com/davegmn/Project-Diabetes_PCA.git)
@@ -21,6 +22,8 @@ I'm David and welcome to my projects. This is a compilation of what I've done in
 * Hepatitis usual conditions
 * Algorithms used: KMEANS, DBSCAN, Bayesian Network, Cluster.
 * Models used to predict the diagnostic.
+
+
 
 #
 You may want to read all my profile.
