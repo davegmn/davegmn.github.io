@@ -13,19 +13,19 @@ I'm David and welcome to my projects. This is a compilation of what I've done in
 
 
 
-<img align="left" width="150" height="150" src=https://github.com/davegmn/Project-Diabetis_PCA/blob/47312ca6899e676661396ebd8a21bf1461270efc/Correlaciones.png> [Project 2: Diabetes with PCA](https://github.com/davegmn/Project-Diabetes_PCA.git)
+<img align="left" width="150" height="150" src="https://github.com/davegmn/Project-Diabetis_PCA/blob/47312ca6899e676661396ebd8a21bf1461270efc/Correlaciones.png"> [Project 2: Diabetes with PCA](https://github.com/davegmn/Project-Diabetes_PCA.git)
 * Typical diabetic conditions
 * PCA, the main technique to determine some determinant conditions. 
 * Bayesian Network to predict the diagnostic. 
 
 #
-<img align="left" width="150" height="150" src=https://github.com/davegmn/Project-Hepatitis-with-non-supervising-learning/blob/253e44443f7e783f4ac8d9596963d5eddd7ebf79/project%203.png> [Project 3: Hepatitis with non supervising learning](https://github.com/davegmn/Project-Hepatitis-with-non-supervising-learning.git)
+<img align="left" width="150" height="150" src="https://github.com/davegmn/Project-Hepatitis-with-non-supervising-learning/blob/253e44443f7e783f4ac8d9596963d5eddd7ebf79/project%203.png"> [Project 3: Hepatitis with non supervising learning](https://github.com/davegmn/Project-Hepatitis-with-non-supervising-learning.git)
 * Hepatitis usual conditions
 * Algorithms used: KMEANS, DBSCAN, Bayesian Network, Cluster.
 * Models used to predict the diagnostic.
 
 #
-<img align="left" width="150" height="150" src=https://github.com/davegmn/Proyecto-Cripto/blob/3b672b4f461fb9967447e22e5171c40b8fb74f54/Screenshot%202023-06-16%20at%2021.46.20%20(2).png> [Project 4: Digital Signature App](https://github.com/davegmn/Proyecto-Cripto.git)
+<img align="left" width="150" height="150" src="https://github.com/davegmn/Proyecto-Cripto/blob/3b672b4f461fb9967447e22e5171c40b8fb74f54/Screenshot%202023-06-16%20at%2021.46.20%20(2).png"> [Project 4: Digital Signature App](https://github.com/davegmn/Proyecto-Cripto.git)
 * RSA Scheme
 * Client and Authorithy usage.
 * Generation of self signed certtifciations.
