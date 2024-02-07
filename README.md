@@ -12,7 +12,7 @@ I'm David and welcome to my projects. This is a compilation of what I've done in
 ![](https://github.com/davegmn/Project-Estimation-of-a-financial-option/blob/d01fc1e6316e6486ce3d5662e453d01977616387/Vol1.png)
 
 
-#
+
 <img align="left" width="150" height="150" src=https://github.com/davegmn/Project-Diabetis_PCA/blob/47312ca6899e676661396ebd8a21bf1461270efc/Correlaciones.png> [Project 2: Diabetes with PCA](https://github.com/davegmn/Project-Diabetes_PCA.git)
 * Typical diabetic conditions
 * PCA, the main technique to determine some determinant conditions. 
