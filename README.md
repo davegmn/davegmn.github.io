@@ -37,9 +37,8 @@ I'm David and welcome to my projects. This is a compilation of what I've done in
 * Developed in Kotlin
 
 
-#
+# About me
 You may want to read all my profile.
-<img align="center" src=https://github.com/davegmn/davegmn.github.io/blob/ab3047fce9c5e9ce718e287cfe286173bf853241/20%20an%CC%83os.png>
 ![](https://github.com/davegmn/davegmn.github.io/blob/main/20%20an%CC%83os.png)
 
 
