@@ -9,7 +9,7 @@ I'm David and welcome to my projects. This is a compilation of what I've done in
 * Banorte Data.
 * Montecarlo Simulation for prediction of yields of the bank for data of 2019. 
 * Black-Scholes for the simulation of prices of financial options.
-![](https://github.com/davegmn/Project-Estimation-of-a-financial-option/blob/d01fc1e6316e6486ce3d5662e453d01977616387/Vol1.png){: width="100" height="100" alt="Texto alternativo"}
+![](https://github.com/davegmn/Project-Estimation-of-a-financial-option/blob/d01fc1e6316e6486ce3d5662e453d01977616387/Vol1.png)
 
 
 #
